@@ -21,5 +21,5 @@
   <div>
     <a href="https://www.linkedin.com/in/gabriel-oliveira-376905166/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee" target="_blank"></a>
     <a href="mailto:gabriel.dev04@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   ![Snake animation](https://github.com/oliveiragabrielc/oliveiragabrielc/blob/output/git-contribution-grind-snake.svg)
+   ![Snake animation](https://github.com/oliveiragabrielc/oliveiragabrielc/blob/output/github-contribution-grind-snake.svg)
   </div> 
