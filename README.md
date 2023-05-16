@@ -3,7 +3,8 @@
 
 
 - 🔭 A procura do primeiro trabalho como desenvolvedor Front-End
-- 🌱 Atualmente estudo triade do front-end html, css e javaScript. Também um pouco de React e ReactNative ...
+- 🌱 Atualmente procuro aplicar meus conehceimentos no front-end. Também um pouco de React...
+- 🌱 Estudando JAVA.
 - 📫 Email: gabriel.dev04@gmail.com
 
 <div style="text-align: center">
