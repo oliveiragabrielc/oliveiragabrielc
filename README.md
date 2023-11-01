@@ -2,9 +2,8 @@
 
 
 
-- 🔭 A procura do primeiro trabalho como desenvolvedor Front-End
-- 🌱 Atualmente procuro aplicar meus conehceimentos no front-end. Também um pouco de React...
-- 🌱 Estudando JAVA.
+- 🌱 Atualmente procuro aplicar meus conhecimentos em aplicações Back-End.
+- 🌱 JAVA | Spring-boot | Quarkus.
 - 📫 Email: gabriel.dev04@gmail.com
 
 <div style="text-align: center">
