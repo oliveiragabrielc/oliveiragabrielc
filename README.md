@@ -1,9 +1,7 @@
 ### Olá, me chamo Gabriel. Seja bem Vindo!! 😊👋
 
 
-
-- 🌱 Atualmente procuro aplicar meus conhecimentos em aplicações Back-End.
-- 🌱 JAVA | Spring-boot | Quarkus.
+- 🌱 Desenvolvedor JAVA
 - 📫 Email: gabriel.dev04@gmail.com
 
 <div style="text-align: center">
